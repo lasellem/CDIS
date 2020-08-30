@@ -1,0 +1,6 @@
+#!/bin/bash
+cd Topologie && ./build && cd ..
+cd "Calcul Différentiel I" &&  ./build && cd ..
+cd "Calcul Différentiel II" &&  ./build && cd ..
+cd "Calcul Intégral I" &&  ./build && cd ..
+
